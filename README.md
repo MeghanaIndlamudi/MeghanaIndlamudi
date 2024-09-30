@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Meghana Indlamudi</h1>
+<h3 align="center">Tech Enthusiast | Developer with a Focus on Scalable and Resilient Systems</h3>
+
 - 🔭 I’m currently learning **JPA and Hibernate**
 
 <h3 align="left">Connect with me:</h3>
