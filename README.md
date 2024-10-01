@@ -1,8 +1,24 @@
-<h1 align="center">Hi 👋, I'm Meghana Indlamudi</h1>
+<!--<h1 align="center">Hi 👋, I'm Meghana Indlamudi</h1>-->
+<h1><img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=700&size=25&pause=1000&color=DA1C10&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+%40Meghana Indlamudi" alt="Typing SVG" /></h1>
+
 <h3 align="center">Tech Enthusiast | Developer with a Focus on Scalable and Resilient Systems</h3>
 
-- 🔭 I’m currently learning **JPA and Hibernate**
+<!-- MISC SECTION -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=MeghanaIndlamudi&label=Visitors&color=brightgreen&style=flat" alt="Meghana Indlamudi" /> 
+  <a href="https://www.linkedin.com/mynetwork/discovery-see-all/?usecase=PEOPLE_FOLLOWS&followMember=Meghana-Indlamudi">
+    <img src="https://img.shields.io/badge/Follow-MeghanaIndlamudi-0A66C2?logo=linkedin" alt="Follow Meghana Indlamudi on LinkedIn">
+  </a>
+</p>
 
+- 🔭 I’m currently learning **JPA and Hibernate**
+  
+- 👑 I’m looking to collaborate on **software development projects and have ownership over my work.**
+
+- 💬 Ask me about **Java, SpringBoot, MicroServices, Kafka, Salesforce, PL/SQL**
+
+- 📫 How to reach me **meghanaindlamudi@gmail.com**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/meghana-indlamudi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/meghana-indlamudi/" height="30" width="40" /></a>
