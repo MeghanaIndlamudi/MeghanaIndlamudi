@@ -15,7 +15,7 @@
   
 - 👑 I’m looking to collaborate on **software development projects and have ownership over my work.**
 
-- 💬 Ask me about **Java, SpringBoot, MicroServices, Kafka, Salesforce, PL/SQL**
+- 💬 Ask me about **Java, SpringBoot, MicroServices, Kafka, Salesforce, PL/SQL, AWS, Python, FastAPI**
 
 - 📫 How to reach me **meghanaindlamudi@gmail.com**
   
